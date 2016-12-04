@@ -1,6 +1,6 @@
 {
   "name": "prueba-npm-ver-tag",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Prueba con npm, versionado y taggeado",
   "main": "index.js",
   "scripts": {
